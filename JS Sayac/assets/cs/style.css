@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+div{
+    display: flex;
+    width: 70%;
+    margin: 10px 15%;
+    gap: 30px;
+    align-items: center;
+}
+button{
+    background-color: pink;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    border-radius: 50%;
+    border: 0;
+    padding: 20px 2px;
+}
